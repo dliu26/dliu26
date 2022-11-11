@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dliu26
+- 👀 I’m interested in software engineering and finance.
+- 🌱 I’m currently learning React/Flask
+- 💞️ I love piano, cat photography, cooking, and going for walks.
